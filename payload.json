@@ -1,7 +1,7 @@
 {
     "version": 1,
     "variables": [{
-    "names": ["transId", "concludeSaleResId","resId","resIdForQuery"] ,
+    "names": ["transId"] ,
     "values": [
     ["A5a2c569-176e-4a2f-b268-396a7c81aa40"],
 	["B5a2c569-176e-4a2f-b268-396a7c81aa40"]
