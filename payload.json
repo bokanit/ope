@@ -3,14 +3,8 @@
     "variables": [{
     "names": ["transId", "concludeSaleResId","resId","resIdForQuery"] ,
     "values": [
-    ["02ab2efd29c0d9a0bef07f1f44dda6ca",
-    "02ab2efd29c0d9a0bef07f1f44dda6ca",
-    "02ab2efd29c0d9a0bef07f1f44dda6ca",
-    "02ab2efd29c0d9a0bef07f1f44dda6ca"],
-	["03ab2efd29c0d9a0bef07f1f44dda6ca",
-    "03ab2efd29c0d9a0bef07f1f44dda6ca",
-    "03ab2efd29c0d9a0bef07f1f44dda6ca",
-    "03ab2efd29c0d9a0bef07f1f44dda6ca"]
+    ["A5a2c569-176e-4a2f-b268-396a7c81aa40"],
+	["B5a2c569-176e-4a2f-b268-396a7c81aa40"]
     ]}
     ]
 }
