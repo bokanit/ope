@@ -1,9 +1,9 @@
 {
-"version": 1,
-"variables": [{
-"names": ["transId", "concludeSaleResId","resId","resIdForQuery"] ,
-"values": [ 
-["01ab2efd29c0d9a0bef07f1f44dda6ca","01ab2efd29c0d9a0bef07f1f44dda6ca","01ab2efd29c0d9a0bef07f1f44dda6ca"]
-]}
-]
+    "version": 1,
+    "variables": [{
+    "names": ["transId", "concludeSaleResId","resId","resIdForQuery"] ,
+    "values": [ 
+    ["01ab2efd29c0d9a0bef07f1f44dda6ca","01ab2efd29c0d9a0bef07f1f44dda6ca","01ab2efd29c0d9a0bef07f1f44dda6ca","01ab2efd29c0d9a0bef07f1f44dda6ca"]
+    ]}
+    ]
 }
